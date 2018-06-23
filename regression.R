@@ -43,6 +43,6 @@ plot(height,weight)
 abline(model)
 
 # Other regression models include logistic regression, 
-#stepwise regression, mutlivariate adaptived regression splines (MARS),
-#and other supervised regression learning algorithms
+# stepwise regression, mutlivariate adaptived regression splines (MARS),
+# and other supervised regression learning algorithms
 
